@@ -1,2 +1,3 @@
 # Adventure-Works-Dashboard
-Excel dashboards analyzing sales, product, and customer metrics, including revenue, profit, and trends across various dimensions for actionable insights.
+“Adventure Works Sales Analysis Dashboard provides insights into sales performance from 2010-2014. It highlights top products, profitable customers, sales trends, and regional contributions using interactive visualizations. Designed for business analysts and decision-makers to monitor KPIs and drive strategic decisions.”
+
