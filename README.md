@@ -11,8 +11,7 @@ This repository contains a sales analysis dashboard for Adventure Works, created
 ### Dashboard Screenshots
 
 #### 1. Sales Analysis Overview
-![Uploading AW.png…]()
-
+![AW](https://github.com/user-attachments/assets/dc666ee9-6f27-4bde-a1b1-491eb0a7345e)
 
 This dashboard provides an overview of sales metrics such as revenue, profit, and transactions, alongside year-wise and quarter-wise breakdowns.
 
